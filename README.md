@@ -1,0 +1,1 @@
+Exempĺos de Design Patterns em cada package
